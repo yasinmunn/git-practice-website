@@ -13,4 +13,4 @@ Open `index.html` in any web browser. No packages or build tools are needed.
 - Resolve a merge conflict.
 
 ## Author
-Replace this line with your name and GitHub username.
+Yasin Ahmed Munna
